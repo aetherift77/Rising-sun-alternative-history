@@ -1,11 +1,7 @@
-title: Root Scene
+title: Bienvenue sur Rising Sun
 new-page: true
 
-This is the root scene of "Dendry-starter-pack". The root scene is normally used
-as a hub: the choices allow you to go to different sections of your
-story. In shorter works it may just function as the first scene in the
-game, sending the player off into the tree of choices. If the root
-scene doesn't have any choices that it can display, the game is over.
+Un scénario alternatif de l'histoire de l'ile d'Irlande, saurais vous faire resplendir l'ile et lui donner ses lettres de noblesse
 
 # Scenes with a top tag can be displayed here.
 - #top
